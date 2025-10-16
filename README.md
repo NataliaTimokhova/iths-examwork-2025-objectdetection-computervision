@@ -13,8 +13,8 @@
 <br>
 
 <p align="center">
+  <em> <strong>Multiclass Classification of Black-and-White Symbols Using Local GPUs</strong></em><br>
   <em>Comparison of deep learning architectures (<strong>ResNet18</strong> vs <strong>ResNet50</strong>) for black-and-white symbol recognition using local GPUs.</em><br>
-  Focused on <strong>object detection</strong> and <strong>computer vision</strong> with <em>PyTorch</em>.
 </p>
 
 <br>
